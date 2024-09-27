@@ -1,0 +1,24 @@
+{
+    "name": "danishigor/yii2-phone-validator",
+    "description": "Validation and clearing of a string with phone inside.",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.1",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Igor Danish",
+            "email": "danish_igor@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "yiisoft/yii2": ">=2.0 <2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "DanishIgor\\Yii2PhoneValidator\\": "src"
+        }
+    }
+}
