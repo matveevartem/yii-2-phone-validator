@@ -1,6 +1,6 @@
 <?php
 
-namespace DanishIgor\Yii2PhoneValidator;
+namespace MatveevArtem\Yii2PhoneValidator;
 
 use yii\validators\Validator;
 
